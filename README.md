@@ -1,6 +1,8 @@
 This project includes **two** Unity projects. One is the server,
 and the other is the client. This runs locally (127.0.0.1)
 
+Video link [here](https://www.youtube.com/watch?v=gstiS2polXM)
+
 # Usage
 1. Open both projects
 2. Navigate to the `SampleScene` scene under `Assets/_Project/Scenes/SampleScene.unity`
